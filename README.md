@@ -3,3 +3,4 @@ Làm dự án
 check day 1: thiết lập sql và tạo các entity. 
 Ae có thể thu thập ảnh để gắn cho các nút và thiết kế form
 
+check day 2: chia form để tạo và tạo các entity, repo liên quan
