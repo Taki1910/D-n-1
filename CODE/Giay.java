@@ -1,3 +1,4 @@
+package CODE;
 public class Giay {
 int maGiay;
 String TenGiay;
